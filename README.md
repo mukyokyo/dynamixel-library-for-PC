@@ -18,13 +18,13 @@ If you're using Python, pyDXL is far superior.
 ## Requirement
 
 - Windows, Linux, MacOS
-- GCC, Python, LabVIEW, etc.
+- GCC, Python, Ruby, LabVIEW, etc.
 - Serial Interface for Dynamixel
 
 ## Usage
 
 The package includes pre-compiled 32-bit and 64-bit DLLs for Windows, so there is no need to rebuild the library.<br>
-For use on other platforms, the included “build_dxlib.sh” script should generate the library.
+Please refer to [this guide](https://www.besttechnology.co.jp/modules/knowledge/?Dynamixel%20Protocol%202%20Library) for rebuilding (Japanese only).
 
 ### C language
 ```c
