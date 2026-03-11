@@ -64,4 +64,4 @@ if dev is not None:
 
 ## Licence
 
-[MIT](https://github.com/mukyokyo/dynamixel-library-for-arduino/blob/main/LICENSE)
+[MIT](https://github.com/mukyokyo/dynamixel-library-for-PC/blob/main/LICENSE)
